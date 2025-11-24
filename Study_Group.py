@@ -95,7 +95,7 @@ def user_list(name):
 #main
 def main():
     while True:
-        print("\n...WELCOME TO STUDYFAM...")
+        print("\n---WELCOME TO STUDY GROUP---")
         print("\n1. Register users")
         print("\n2. Create group")
         print("\n3. View groups")
@@ -137,12 +137,12 @@ def main():
             if Rating>=1 and Rating<=10:
                 add_rating(name,Rating)
             else:
-                print("Invalid rating , rate between (1-10)")
+                print("Invalid rating, rate between (1-10)")
         
         elif choice=="7":
-            print("GOODBYE!")
+            print("Have a good day!")
             break
         else:
-            print("Invalid option , Try again")
+            print("Invalid option, Try again")
 
 main()
