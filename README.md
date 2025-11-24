@@ -1,7 +1,7 @@
-# StudyFam - Study group management system
+# Study Group - Study group management system
 
 ## Overview
-StudyFam is a simple python program for creating and joining study groups. Users can register with their skils to teach and learn , create groups to learn new skills , view member profiles , rate fellow learners
+Study Group is a simple python program for creating and joining study groups. Users can register with their skils to teach and learn , create groups to learn new skills , view member profiles , rate fellow learners
 
 ## Features 
 1. user registration with skills to teach and learn
